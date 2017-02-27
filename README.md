@@ -1,0 +1,2 @@
+# Muskrat
+Muskrat eurorack module 
