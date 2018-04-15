@@ -1,6 +1,6 @@
 /*
 
-      Mini Søund Generatør 
+           Muskrat
       Møffenzeef Mødular 
         Røss Fish 2016 
   http://moffenzeefmodular.com
